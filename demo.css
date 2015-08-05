@@ -1,0 +1,80 @@
+marquee{
+	font-family: "微軟正黑體";
+	font-size: 40px;
+	color : black;
+
+
+}
+
+marquee:hover{
+	font-family: "微軟正黑體";
+	font-size: 40px;
+	color : red;
+}
+img{
+	border: 7px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.4);
+	
+	opacity: 0.6;
+}
+
+img:hover{
+	border: 7px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.8);
+	
+	opacity: 1;
+}
+p{
+	font-family: "微軟正黑體";
+	font-size: 20px;
+	color : blue;
+}
+
+div{
+	margin: 10px 0px 50px 0px;
+}
+
+div.background
+{
+  width: 500px;
+  height: 326px;
+  background: url(http://img1.cache.netease.com/catchpic/C/C9/C983D26CEF147C5BB9148DA8CB76F05A.jpg) no-repeat;
+  border: 1px solid black;
+}
+
+div.transbox
+{
+  width: 435px;
+  height: 260px;
+  margin:30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+
+
+
+  opacity:0.25;
+}
+
+div.transbox:hover
+{
+  width: 435px;
+  height: 260px;
+  margin:30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+
+
+  opacity:0.6;
+}
+
+div.transbox p
+{
+  margin: 20px 30px;
+}
+
+
+a{
+	style = text-decoration : none ;
+}
